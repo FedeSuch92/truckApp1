@@ -1,0 +1,11 @@
+-I/usr/include/c++/9
+-I/usr/include/x86_64-linux-gnu/c++/9
+-I/usr/include/c++/9/backward
+-I/usr/lib/gcc/x86_64-linux-gnu/9/include
+-I/usr/local/include
+-I/usr/include/x86_64-linux-gnu
+-I/usr/include
+-I/home/danilo/Desktop/programming/notes_classes/C/Federico/Practica_2/UOCTransport_PR2_enu/UOCTransport_PR2_enu/include
+-I/home/danilo/Desktop/programming/notes_classes/C/Federico/Practica_2/UOCTransport_PR2_enu/UOCTransport_PR2_enu
+-target
+x86_64-linux-gnu

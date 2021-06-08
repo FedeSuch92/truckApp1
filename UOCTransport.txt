@@ -1,0 +1,1 @@
+./Menu/src_api.c.o ./Menu/src_material.c.o ./Menu/src_location.c.o ./Menu/src_truck.c.o ./Menu/src_delivery.c.o ./Menu/src_stack.c.o ./Menu/src_main.c.o ./Menu/src_test.c.o ./Menu/src_menu.c.o

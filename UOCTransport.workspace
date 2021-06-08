@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="UOCTransport" Database="" Version="10.0.0">
+  <Project Name="UOCTransport" Path="UOCTransport.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Test" Selected="yes">
+      <Environment/>
+      <Project Name="UOCTransport" ConfigName="Test"/>
+      <Project Name="UOCTransport" ConfigName="Test"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Menu" Selected="no">
+      <Environment/>
+      <Project Name="UOCTransport" ConfigName="Menu"/>
+      <Project Name="UOCTransport" ConfigName="Menu"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

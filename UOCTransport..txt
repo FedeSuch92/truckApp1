@@ -1,0 +1,1 @@
+./Test/src_api.c.o ./Test/src_main.c.o ./Test/src_menu.c.o ./Test/src_test.c.o ./Test/src_good.c.o ./Test/src_train.c.o
